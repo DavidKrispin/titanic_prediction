@@ -1,5 +1,6 @@
 # titanic_prediction
 Python script that uses different ML algorithms and Titanic passengers dataset (https://github.com/datasciencedojo/datasets/blob/master/titanic.csv) to determine whether you would survive the Titanic, according to every different algorithm used.
+
 Link to image on dockerhub: https://hub.docker.com/r/davidkri/titanic_prediction/
 
 The container with the script can be pulled using: docker pull davidkri/titanic_prediction
